@@ -39,9 +39,13 @@ The best performing model was selected on the basis of evaluation.
 
 # 5 Dataset Information:
 Dataset Source:Kaggle
+<<<<<<< HEAD
 
 Total Feature:
 
+=======
+Total Feature:20
+>>>>>>> 712f2ae785a02695f6fe7c479288469fc76afd65
 Target Column:Loan_Status
 
 # Key Features
